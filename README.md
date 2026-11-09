@@ -1,0 +1,1 @@
+# code-trivia-of-random-prime
