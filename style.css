@@ -1,0 +1,30 @@
+body {
+background-color: #297390;
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 40px auto;
+}
+
+.question {
+    background-color: #02D6BF;
+    padding: 15px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+}
+
+.answer {
+    padding: 15px;
+    background-color: #008F7F;
+}
+
+
+IDexample {
+background-color: #529DF9;
+}
+
+
+h1 {
+
+border-bottom: 4px solid #000;
+
+}
